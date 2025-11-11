@@ -1,0 +1,10 @@
+MONGODB_HOST: mongodb.opsora.space # submit your host
+REDIS_HOST: redis.opsora.space
+MYSQL_HOST: mysql.opsora.space
+RABBITMQ_HOST: rabbitmq.opsora.space
+CATALOGUE_HOST: catalogue.opsora.space
+USER_HOST: user.opsora.space
+CART_HOST: cart.opsora.space
+SHIPPING_HOST: shipping.opsora.space
+PAYMENT_HOST: payment.opsora.space
+DISPATCH_HOST: dispatch.opsora.space

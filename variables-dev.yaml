@@ -2,9 +2,9 @@ MONGODB_HOST: mongodb-dev.opsora.space  # submit your host
 REDIS_HOST: redis-dev.opsora.space 
 MYSQL_HOST: mysql-dev.opsora.space 
 RABBITMQ_HOST: rabbitmq-dev.opsora.space 
-CATALOGUE_HOST: catalogue-dev.opsora.space 
-USER_HOST: user-dev.opsora.space 
-CART_HOST: cart-dev.opsora.space 
-SHIPPING_HOST: shipping-dev.opsora.space 
-PAYMENT_HOST: payment-dev.opsora.space 
-DISPATCH_HOST: dispatch-dev.opsora.space 
+CATALOGUE_HOST: catalogue.app-dev.opsora.space 
+USER_HOST: user.app-dev.opsora.space 
+CART_HOST: cart.app-dev.opsora.space 
+SHIPPING_HOST: shipping.app-dev.opsora.space 
+PAYMENT_HOST: payment.app-dev.opsora.space 
+DISPATCH_HOST: dispatch.app-dev.opsora.space 
